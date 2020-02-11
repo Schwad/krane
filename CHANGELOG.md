@@ -8,6 +8,7 @@
 *Other*
 - Reduces the number of container logs printed for failures from 250 to 25 to reduce noise. [#676](https://github.com/Shopify/krane/pull/676)
 - Remove hardcoded cloudsql class. [#680](https://github.com/Shopify/krane/pull/680)
+- Dropped support for Ruby 2.4 since it will be EoL shortly [#693](https://github.com/Shopify/krane/pull/693).
 
 ## 1.1.1
 
